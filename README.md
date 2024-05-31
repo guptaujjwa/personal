@@ -1,2 +1,5 @@
 # personal
-this is personal file
+this is my first git respestory.
+<br>
+Author - Ujjwal Gupta
+
